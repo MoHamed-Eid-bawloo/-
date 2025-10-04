@@ -24,7 +24,7 @@ const Gallery = () => {
       category: "القرية",
     },
     {
-      src: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRlR3fdwaFjUH_TPXBz8qteRYTz7ei8AehKD7DJHml29zY9LF4FI0xGkm7EJrNOMRa6GWW4qE4bxduPyYkBvq-Sdv9itbeVLwMs-cmm6d35EQ",
+      src: "https://www.facebook.com/photo/?fbid=10164044174077699&set=p.10164044174077699&locale=ar_AR",
       title: "زيارة ميدانية",
       category: "الميدان",
     },
