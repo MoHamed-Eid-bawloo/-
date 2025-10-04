@@ -24,7 +24,7 @@ const Gallery = () => {
       category: "القرية",
     },
     {
-      src: "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=800&h=600&fit=crop",
+      src: "../../assets/ابو جرج.jpg",
       title: "زيارة ميدانية",
       category: "الميدان",
     },
