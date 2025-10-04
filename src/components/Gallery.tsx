@@ -3,18 +3,24 @@ import { Card } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { X } from "lucide-react";
 import villageImg from "@/assets/village-landscape.jpg";
+import moltaqa from "@/assets/1.jpg";
+import abogerg from "@/assets/2.jpg";
+import moltaqa2 from "@/assets/3.jpg";
+import moltaqa3 from "@/assets/4.jpg";
+import moltaqa4 from "@/assets/5.jpg";
+import moltaqa5 from "@/assets/6.jpg";
 
 const Gallery = () => {
   const [selectedImage, setSelectedImage] = useState<string | null>(null);
 
   const images = [
     {
-      src: "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=800&h=600&fit=crop",
+      src: moltaqa,
       title: "لقاء جماهيري",
       category: "الحملة",
     },
     {
-      src: "https://images.unsplash.com/photo-1559027615-cd4628902d4a?w=800&h=600&fit=crop",
+      src: moltaqa2,
       title: "اجتماع مع الأهالي",
       category: "الفعاليات",
     },
@@ -24,17 +30,17 @@ const Gallery = () => {
       category: "القرية",
     },
     {
-      src: "https://www.facebook.com/photo/?fbid=10164044174077699&set=p.10164044174077699&locale=ar_AR",
+      src: abogerg,
       title: "زيارة ميدانية",
       category: "الميدان",
     },
     {
-      src: "https://images.unsplash.com/photo-1591115765373-5207764f72e7?w=800&h=600&fit=crop",
+      src: moltaqa3,
       title: "لقاء مع الشباب",
       category: "لقاءات",
     },
     {
-      src: "https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?w=800&h=600&fit=crop",
+      src: moltaqa5,
       title: "الحملة الانتخابية",
       category: "الحملة",
     },
