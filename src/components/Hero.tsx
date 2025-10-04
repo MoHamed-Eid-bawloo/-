@@ -37,7 +37,7 @@ const Hero = () => {
           <div className="text-xl sm:text-2xl md:text-3xl lg:text-4xl font-bold mb-8 md:mb-12 leading-relaxed px-4">
             معاً من أجل مستقبل أفضل
             <br />
-            <span className="text-secondary-light">لقرية صفط أبو جرج والمحافظة</span>
+            <span className="text-secondary-light">لشمال المنيا ("بني مزار" و "مغاغة" و "العدوه""(</span>
           </div>
 
           <div className="flex flex-col sm:flex-row gap-3 md:gap-4 justify-center items-stretch sm:items-center px-4 max-w-4xl mx-auto">
